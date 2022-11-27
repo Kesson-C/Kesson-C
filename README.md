@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kesson-C
-- 👀 I’m interested in Simualation
+- 👀 I’m interested in Simulation
 - 🌱 I’m currently learning Quantum computing
 - 💞️ I’m looking to collaborate on Quantum algorithm
 - 📫 How to reach me chickeniron4801@gmail.com
